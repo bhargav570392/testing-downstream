@@ -1,7 +1,7 @@
 node 
 {
 
-stage('Build')
+stage('Testingupdp')
 {
 build 'test'
   
